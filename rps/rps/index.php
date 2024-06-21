@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Meng Shi Severance - Broken Rock Paper Scissors</title>
+<title>Kalai Kannan 8f10547f Broken Rock Paper Scissors</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
